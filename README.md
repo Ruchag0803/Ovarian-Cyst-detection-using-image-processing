@@ -14,14 +14,14 @@ The project involves the development of an image processing and machine learning
 
 4. Visualization and Evaluation: The project evaluates the system's performance using metrics like accuracy, sensitivity, and specificity to assess its effectiveness. This process guides further improvements and optimizations.
 
-### Result:
+### Result: 
 1. Infected Image:
    
-<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/188c0e33-d0ba-4996-ba02-3adf959f3acb" width="400" height="400">
+<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/188c0e33-d0ba-4996-ba02-3adf959f3acb" width="500" height="500">
 
 2. Non-Infected Image:
    
-<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/aa431f49-f227-47a5-8ccd-552b6b508830" width="400" height="400">
+<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/aa431f49-f227-47a5-8ccd-552b6b508830" width="500" height="500">
 
 
 ### Future Scope:
