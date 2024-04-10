@@ -1,7 +1,7 @@
 # Project: Ovarian Cyst Detection
 
 ### Objective:
-The objective of this project is to develop a system for identifying and classifying ovarian cysts present in medical images. Ovarian cysts are fluid-filled sacs that can develop in the ovaries, and they can vary in size and complexity. This project aims to provide a tool that assists medical professionals in accurately detecting and categorizing these cysts.
+The objective of this project is to develop a system for identifying ovarian cysts present in medical images. Ovarian cysts are fluid-filled sacs that can develop in the ovaries, and they can vary in size and complexity. This project aims to provide a tool that assists medical professionals in accurately detecting these cysts.
 
 ### Project Description:
 The project involves the development of an image processing and machine learning system to analyze medical images of the ovaries. The process includes several steps:
