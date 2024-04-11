@@ -16,12 +16,12 @@ The project involves the development of an image processing and machine learning
 
 ### Result: 
 1. Infected Image:
-   
-<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/188c0e33-d0ba-4996-ba02-3adf959f3acb" width="500" height="500">
+
+<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/aa431f49-f227-47a5-8ccd-552b6b508830" width="600" height="600">
 
 2. Non-Infected Image:
-   
-<img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/aa431f49-f227-47a5-8ccd-552b6b508830" width="500" height="500">
+   <img src="https://github.com/Ruchag0803/Ovarian-Cyst-detection-using-image-processing/assets/112757983/df9e7b61-6538-411d-a4fe-39fe67cadc21" width="600" height="600">
+
 
 
 ### Future Scope:
